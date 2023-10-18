@@ -1,7 +1,4 @@
 {
-    "build": { 
-      "dockerfile":  "./.devcontainer/Dockerfile"
-     },
      "postCreateCommand": "./.devcontainer/features/nodejs/install.sh"
 
 }
