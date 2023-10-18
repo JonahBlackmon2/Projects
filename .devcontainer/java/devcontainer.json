@@ -1,0 +1,3 @@
+{
+    "postCreateCommand": "./.devcontainer/features/java/install.sh"
+}
